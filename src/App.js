@@ -1,3 +1,4 @@
+// App.js file
 import React from 'react'
 import CustomHeading from './components/CustomHeading'
 import CustomButton from './components/CustomButton'
@@ -15,5 +16,6 @@ const App = () => {
     </div>
   )
 }
+
 
 export default App
